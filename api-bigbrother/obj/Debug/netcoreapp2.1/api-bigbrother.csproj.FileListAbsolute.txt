@@ -1,0 +1,14 @@
+c:\vs\api-bigbrother\api-bigbrother\bin\Debug\netcoreapp2.1\api-bigbrother.deps.json
+c:\vs\api-bigbrother\api-bigbrother\bin\Debug\netcoreapp2.1\api-bigbrother.runtimeconfig.json
+c:\vs\api-bigbrother\api-bigbrother\bin\Debug\netcoreapp2.1\api-bigbrother.runtimeconfig.dev.json
+c:\vs\api-bigbrother\api-bigbrother\bin\Debug\netcoreapp2.1\api-bigbrother.dll
+c:\vs\api-bigbrother\api-bigbrother\bin\Debug\netcoreapp2.1\api-bigbrother.pdb
+c:\vs\api-bigbrother\api-bigbrother\obj\Debug\netcoreapp2.1\api-bigbrother.csprojResolveAssemblyReference.cache
+c:\vs\api-bigbrother\api-bigbrother\obj\Debug\netcoreapp2.1\api-bigbrother.csproj.CoreCompileInputs.cache
+c:\vs\api-bigbrother\api-bigbrother\obj\Debug\netcoreapp2.1\api-bigbrother.RazorAssemblyInfo.cache
+c:\vs\api-bigbrother\api-bigbrother\obj\Debug\netcoreapp2.1\api-bigbrother.RazorAssemblyInfo.cs
+c:\vs\api-bigbrother\api-bigbrother\obj\Debug\netcoreapp2.1\api-bigbrother.AssemblyInfoInputs.cache
+c:\vs\api-bigbrother\api-bigbrother\obj\Debug\netcoreapp2.1\api-bigbrother.AssemblyInfo.cs
+c:\vs\api-bigbrother\api-bigbrother\obj\Debug\netcoreapp2.1\api-bigbrother.RazorTargetAssemblyInfo.cache
+c:\vs\api-bigbrother\api-bigbrother\obj\Debug\netcoreapp2.1\api-bigbrother.dll
+c:\vs\api-bigbrother\api-bigbrother\obj\Debug\netcoreapp2.1\api-bigbrother.pdb
